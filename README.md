@@ -1,0 +1,1 @@
+This is an app that allows a user to enter numbers into an input box and then check to see what the average of all the numbers is. The user can also check to see what the largest and smallest number is.
